@@ -2,13 +2,19 @@
 
 `Thanks for Visiting our website `
 
-_Last updated: 4 sep 2023_
+_Last updated: 5 sep 2023_
 
 ## What's in this project?
 
-`Creating Bot` ```NetherGames Tracker Bot```
-> i am creating a bot `NetherGames Tracker` which will work for all servers.
+`Creating Bot` ```All In One```
+> i am creating a bot `All In One` which will work for all servers.
 
+## Bot Future’s
+
+> Ticket System with custom Category.
+> Many Common commands
+>
+>  ```/Ban /purge /unmute /mute /addrole /avatar etc commands```
 
 ## Invite Bot
 
