@@ -1,4 +1,5 @@
-# Project closed for now.
+# Project closed forever.
+
 # All In One Bot 🤖
 
 `Thanks for Visiting our website `
