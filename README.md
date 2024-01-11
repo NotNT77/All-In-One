@@ -1,5 +1,7 @@
 # Project closed forever.
 
+**The project is closed forever, which means now no bot will appear, and no source code.**
+
 # All In One Bot 🤖
 
 `Thanks for Visiting our website `
@@ -13,20 +15,18 @@ _Last updated: 5 sep 2023_
 
 ## Bot Future’s
 
-> Ticket System with custom Category.
-> Many Common commands
+>> And Ticket System with custom commands.
+Many Common commands
 >
 >  ```/Ban /purge /unmute /mute /addrole /avatar etc commands```
 
 ## Invite Bot
 
-[Tap here to invite NetherGames Tracker bot to your server](https://discord.com/api/oauth2/authorize?client_id=1137062252869058622&permissions=19095894404343&scope=bot)
-
-___No data is collected or shared, you can feel free to use bot.___
+due to the project being closed, you cannot invite the bot, thanks for Looking for this :) 
 
 ## Help Center
 
-- Need more help? [Check out our discord server](https://discord.gg/sqVBrMVQmp) for answers to any common questions
+- do you have any queries? [Check out our discord server](https://discord.gg/sqVBrMVQmp) for answers to any common questions
 
 ## Social Accounts
 
